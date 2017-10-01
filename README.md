@@ -8,7 +8,7 @@ Swift3 编写的 iOS 无限轮播图视图
 
 # Screenshots
 
-![Screenshot](https://github.com/yonient/KEImageLoopView/raw/master/Screenshot/2016-12-24 14_30_10.gif)
+![Screenshot](https://github.com/yonient/KEImageLoopView/raw/master/Screenshot/2016-12-24%2014_30_10.gif)
 
 
 # Required
