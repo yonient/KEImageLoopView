@@ -24,7 +24,7 @@ Used SDWebImage as the image input source.
 
 You can replace it with anything you like.
 
-# Lisense
+# License
 
 MIT
 
